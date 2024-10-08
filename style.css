@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStVDbzMHPrs55wM5tt4_2C5ebJMhYGgwSJcA&s);
+}
+h1{
+    font-size: 100px;
+    color: blue;
+}
+h2{
+    font-size: 70px;
+    color: brown;
+}
+input{
+    height: 50px;
+    width: 300px;
+}
+span{
+    font-size: 50px;
+    color:rgb(13, 119, 119);
+}
+.botao{
+    float: right;
+    width:210px ;
+    margin-right: 600px;
+}
+button{
+    width: 100px;
+    height: 40px;
+}
